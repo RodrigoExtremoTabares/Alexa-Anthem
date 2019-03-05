@@ -1,0 +1,40 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": ""
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "usesPersonalInfo": false,
+      "isChildDirected": false,
+      "isExportCompliant": true,
+      "containsAds": false
+    },
+    "publishingInformation": {
+      "locales": {
+        "es-ES": {
+          "name": "Estado de los servidores de Anthem (No oficial)",
+          "smallIconUri": "",
+          "largeIconUri": "",
+          "summary": "Comprueba el estado de los servidores del juego",
+          "description": "",
+          "examplePhrases": [
+            "Alexa, abre estado de los servidores"
+          ],
+          "keywords": [
+          ]
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "",
+      "category": "GAME_INFO_AND_ACCESSORY",
+      "distributionCountries": []
+    }
+  }
+}

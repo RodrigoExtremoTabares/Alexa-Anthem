@@ -1,0 +1,65 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "estado de los servidores",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "quiero que canceles",
+            "cancelar",
+            "cancela"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+            "ya está",
+            "finalizar",
+            "basta basta",
+            "apagar",
+            "muchas gracias",
+            "cerrar",
+            "adiós",
+            "ya ya",
+            "para para",
+            "para por favor",
+            "para gracias",
+            "nada gracias",
+            "que te calles",
+            "silencio",
+            "apága te",
+            "apaga",
+            "ya",
+            "vale",
+            "ya vale",
+            "quiero que salgas",
+            "quiero salir",
+            "sal",
+            "salir",
+            "quiero que pares",
+            "detén te",
+            "detente",
+            "detén",
+            "parar",
+            "para"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "necesito ayuda",
+            "ayúdame",
+            "ayudar",
+            "ayuda"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  }
+}
